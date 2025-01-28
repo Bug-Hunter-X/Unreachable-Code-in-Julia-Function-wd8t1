@@ -1,0 +1,2 @@
+# Unreachable Code in Julia
+This example demonstrates unreachable code in a Julia function.  The code after the complete `if-elseif-else` statement will never be executed. While not strictly an error, it indicates a potential logic flaw or unnecessary code that should be removed to improve readability and maintainability.  The solution file shows how to clean up the code for better clarity.
